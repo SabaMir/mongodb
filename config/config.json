@@ -1,0 +1,8 @@
+{
+    "development": {
+      "username": "ert_10",
+      "password": "@ert1234",
+      "host": "clusterendpoints-shard-00-00-bj7vd.mongodb.net:27017",
+      "dbName": "Expert-backend"
+    }
+  }
