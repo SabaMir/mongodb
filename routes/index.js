@@ -20,4 +20,5 @@ exports = module.exports = function (app) {
 
    
     app.post('/api/contactform',  Contactform.create);
+    app.post('/api/subscribe',  Contactform.Subscribe);
 };
